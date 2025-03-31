@@ -67,3 +67,7 @@ Alain Prost,51
 - Aplica transformações distribuídas
 
 - Salva resultados otimizados
+
+
+![Fluxo do Pipeline](img/PipeOn.png)
+![Fluxo do Pipeline](img/Image.png)
