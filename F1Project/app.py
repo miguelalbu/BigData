@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Carregar os dados
-results = pd.read_csv('F1Project/DB/results.csv')
-drivers = pd.read_csv('F1Project/DB/drivers.csv')
+results = pd.read_csv('F1Project/data/results.csv')
+drivers = pd.read_csv('F1Project/data/drivers.csv')
 
 # Filtrar apenas vitórias (position = 1)
 victories = results[results['position'] == '1']
