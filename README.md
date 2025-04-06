@@ -71,3 +71,9 @@ Alain Prost,51
 
 ![Fluxo do Pipeline](img/PipeOn.png)
 ![Fluxo do Pipeline](img/Image.png)
+
+## Resultado Gráfico PowerBI
+
+- Lista de pilotos com mais vitórias
+
+![Visualização do Grafico](img/PBIgrafico.jpg)
