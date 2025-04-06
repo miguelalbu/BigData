@@ -1,0 +1,29 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas/arquivos do VSCode ou PyCharm
+.vscode/
+.idea/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.env/
+*.env
+
+# Arquivos de dados pesados
+*.csv
+*.xlsx
+*.json
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Arquivos específicos do projeto
+AnvisaProject/data/data.csv
